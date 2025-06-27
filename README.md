@@ -14,33 +14,33 @@ Busco usar a tecnologia para transformar negócios e melhorar vidas.
 
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
-### 🎯 **Portfolio Dev**
-**Tecnologias:** Next.js, Tailwind CSS, TypeScript  
-🔗 [Acessar Projeto](https://portfolio-obede.vercel.app)
+### 🍽️ **Yummy Restaurant**  
+**Tecnologias:** Next.js, TypeScript, Tailwind CSS  
+🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)
 
 ---
 
-### 🧠 **NeuroBoard**
-**Tecnologias:** React, Node.js, Fastify, Prisma  
-🔗 [Acessar Projeto](https://neuroboard.vercel.app)
+### 🛍️ **Online Store**  
+**Status:** Em desenvolvimento  
+**Tecnologias previstas:** Next.js, Tailwind CSS
 
 ---
 
-### 📦 **DevBox**
-**Tecnologias:** Vite, Tailwind CSS, Zustand  
-🔗 [Acessar Projeto](https://devbox-app.vercel.app)
+### 🏪 **Ango Mart**  
+**Status:** Em desenvolvimento  
+**Tecnologias previstas:** React, Tailwind CSS
 
 ---
 
-### 🔐 **LoginPro**
-**Tecnologias:** Next.js, NextAuth, TypeScript  
-🔗 [Acessar Projeto](https://loginpro.vercel.app)
+### 🧭 **Healthmap**  
+**Status:** Em desenvolvimento  
+**Tecnologias previstas:** Next.js, Leaflet.js, Fastify
 
 ---
 
-### 🛒 **ShopzOne**
-**Tecnologias:** React, Styled-Components, Fake API  
-🔗 [Acessar Projeto](https://shopzone.vercel.app)
+### 💼 **Portfolio Dev**  
+**Status:** Em desenvolvimento  
+**Tecnologias previstas:** Next.js, Tailwind CSS, TypeScript
 
 </div>
 
