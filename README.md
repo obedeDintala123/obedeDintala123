@@ -12,42 +12,39 @@ Busco usar a tecnologia para transformar negócios e melhorar vidas.
 
 ## 🚀 Projetos em Destaque
 
-<div style="display: flex; flex-direction: column; gap: 1rem;">
-
-### 🍽️ **Yummy Restaurant**  
+### [🍽️ Yummy Restaurant](https://github.com/obedeDintala123/yummy-restaurant)  
 Site moderno para restaurante, permite reservas e encomendas online.  
+**Status:** Em desenvolvimento  
 **Tecnologias:** Next.js, TypeScript, Tailwind CSS  
 🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)
 
 ---
 
-### 🛍️ **Online Store**  
+### [🛍️ Online Store](https://github.com/obedeDintala123/OnlineStore)  
 Loja virtual com catálogo de produtos e carrinho de compras.  
-**Status:** Em desenvolvimento  
+**Status:** Precisa de atualização  
 **Tecnologias previstas:** Next.js, Tailwind CSS
 
 ---
 
-### 🏪 **Ango Mart**  
+### [🏪 Ango Mart](https://github.com/obedeDintala123/AngoMart)  
 Marketplace voltado para o comércio local angolano.  
-**Status:** Em desenvolvimento  
+**Status:** Precisa de atualização 
 **Tecnologias previstas:** React, Tailwind CSS
 
 ---
 
-### 🧭 **Healthmap**  
+### [🧭 Healthmap](https://github.com/obedeDintala123/AngoMart)  
 Plataforma para localização de unidades de saúde no mapa.  
-**Status:** Em desenvolvimento  
+**Status:** Precisa de atualização
 **Tecnologias previstas:** Next.js, Leaflet.js, Fastify
 
 ---
 
-### 💬 **Hello**  
+### [💬 Hello](https://github.com/obedeDintala123/hello)  
 Rede social para conexões simples e diretas entre usuários.  
-**Status:** Em desenvolvimento  
+**Status:** Precisa de atualização
 **Tecnologias previstas:** React, Node.js, Tailwind CSS
-
-</div>
 
 ---
 
