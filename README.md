@@ -10,13 +10,39 @@ Busco usar a tecnologia para transformar negócios e melhorar vidas.
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **Auto Farma** | Sistema inteligente de dispensação de medicamentos para alunos | React, Fastify, Prisma, ESP32 |
-| **Portfolio Dev** | Site pessoal com animações e responsividade | Next.js, Tailwind CSS, TypeScript |
-| **API Escola+** | API REST para gestão escolar | Node.js, Fastify, PostgreSQL |
+<div style="display: flex; flex-direction: column; gap: 1rem;">
+
+### 🎯 **Portfolio Dev**
+**Tecnologias:** Next.js, Tailwind CSS, TypeScript  
+🔗 [Acessar Projeto](https://portfolio-obede.vercel.app)
+
+---
+
+### 🧠 **NeuroBoard**
+**Tecnologias:** React, Node.js, Fastify, Prisma  
+🔗 [Acessar Projeto](https://neuroboard.vercel.app)
+
+---
+
+### 📦 **DevBox**
+**Tecnologias:** Vite, Tailwind CSS, Zustand  
+🔗 [Acessar Projeto](https://devbox-app.vercel.app)
+
+---
+
+### 🔐 **LoginPro**
+**Tecnologias:** Next.js, NextAuth, TypeScript  
+🔗 [Acessar Projeto](https://loginpro.vercel.app)
+
+---
+
+### 🛒 **ShopzOne**
+**Tecnologias:** React, Styled-Components, Fake API  
+🔗 [Acessar Projeto](https://shopzone.vercel.app)
+
+</div>
 
 ---
 
