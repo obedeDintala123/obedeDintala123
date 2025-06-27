@@ -29,21 +29,21 @@ Loja virtual com catálogo de produtos e carrinho de compras.
 
 ### [🏪 Ango Mart](https://github.com/obedeDintala123/AngoMart)  
 Marketplace voltado para o comércio local angolano.  
-**Status:** Precisa de atualização 
+**Status:** Precisa de atualização <br/> 
 **Tecnologias previstas:** React, Tailwind CSS
 
 ---
 
 ### [🧭 Healthmap](https://github.com/obedeDintala123/AngoMart)  
 Plataforma para localização de unidades de saúde no mapa.  
-**Status:** Precisa de atualização
+**Status:** Precisa de atualização <br/>
 **Tecnologias previstas:** Next.js, Leaflet.js, Fastify
 
 ---
 
 ### [💬 Hello](https://github.com/obedeDintala123/hello)  
 Rede social para conexões simples e diretas entre usuários.  
-**Status:** Precisa de atualização
+**Status:** Precisa de atualização <br/>
 **Tecnologias previstas:** React, Node.js, Tailwind CSS
 
 ---
