@@ -17,7 +17,7 @@ Busco usar a tecnologia para transformar negócios e melhorar vidas.
 ### 🍽️ **Yummy Restaurant**  
 Site moderno para restaurante, permite reservas e encomendas online.  
 **Tecnologias:** Next.js, TypeScript, Tailwind CSS  
-🔗 [Acessar Projeto](https://yummy-restaurant.vercel.app)
+🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)
 
 ---
 
