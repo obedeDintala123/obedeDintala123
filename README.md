@@ -14,15 +14,15 @@ Busco usar a tecnologia para transformar negócios e melhorar vidas.
 
 ### [🍽️ Yummy Restaurant](https://github.com/obedeDintala123/yummy-restaurant)  
 Site moderno para restaurante, permite reservas e encomendas online.  
-**Status:** Em desenvolvimento  
-**Tecnologias:** Next.js, TypeScript, Tailwind CSS  
+**Status:** Concluído 
+**Tecnologias:** Next.js, TypeScript, Tailwind CSS, Node.js, Fastify, PostreSQL  
 🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)
 
 ---
 
 ### [🛍️ Online Store](https://github.com/obedeDintala123/OnlineStore)  
 Loja virtual com catálogo de produtos e carrinho de compras.  
-**Status:** Precisa de atualização  
+**Status:** Em desenvolvimento 
 **Tecnologias previstas:** Next.js, Tailwind CSS
 
 ---
