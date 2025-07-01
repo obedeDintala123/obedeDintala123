@@ -12,62 +12,80 @@ Busco usar a tecnologia para transformar negócios e melhorar vidas.
 
 ## 💼 Projetos em Destaque
 
-### 🍽️ [Yummy Restaurant](https://github.com/obedeDintala123/yummy-restaurant)
-> 💻 Site moderno para restaurantes com reservas e pedidos online.  
-🔧 **Tecnologias**: Next.js, TypeScript, Tailwind CSS, Node.js, Fastify, PostgreSQL  
-🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)  
+### 🍽️ [Yummy Restaurant](https://github.com/obedeDintala123/yummy-restaurant)  
+
+💻 Site moderno para restaurantes com reservas e pedidos online.  
+
+🔧 **Tecnologias:**  
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
 ✅ **Status:** Concluído  
+
+🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)  
 
 ---
 
-### 🛍️ [Online Store](https://github.com/obedeDintala123/OnlineStore)
-> 🛒 Loja virtual com catálogo de produtos e carrinho de compras.  
-🔧 **Tecnologias previstas**: Next.js, Tailwind CSS  
+### 🛍️ [Online Store](https://github.com/obedeDintala123/OnlineStore)  
+
+🛒 Loja virtual com catálogo de produtos e carrinho de compras.  
+
+🔧 **Tecnologias previstas:**  
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+
 🚧 **Status:** Em desenvolvimento  
 
 ---
 
-### 🏪 [Ango Mart](https://github.com/obedeDintala123/AngoMart)
-> 🛍️ Marketplace voltado para o comércio local angolano.  
-🔧 **Tecnologias previstas**: React, Tailwind CSS  
+### 🏪 [Ango Mart](https://github.com/obedeDintala123/AngoMart)  
+
+🛍️ Marketplace voltado para o comércio local angolano.  
+
+🔧 **Tecnologias previstas:**  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+
 ⚠️ **Status:** Precisa de atualização  
 
 ---
 
-### 🧭 [Healthmap](https://github.com/obedeDintala123/AngoMart)
-> 🏥 Plataforma para localização de unidades de saúde no mapa.  
-🔧 **Tecnologias previstas**: Next.js, Leaflet.js, Fastify  
+### 🧭 [Healthmap](https://github.com/obedeDintala123/AngoMart)  
+
+🏥 Plataforma para localização de unidades de saúde no mapa.  
+
+🔧 **Tecnologias previstas:**  
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)  
+
 ⚠️ **Status:** Precisa de atualização  
 
 ---
 
-### 💬 [Hello](https://github.com/obedeDintala123/hello)
-> 💬 Rede social para conexões simples e diretas entre usuários.  
-🔧 **Tecnologias previstas**: React, Node.js, Tailwind CSS  
+### 💬 [Hello](https://github.com/obedeDintala123/hello)  
+
+💬 Rede social para conexões simples e diretas entre usuários.  
+
+🔧 **Tecnologias previstas:**  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+
 ⚠️ **Status:** Precisa de atualização  
 
 ---
 
 ## 🛠️ Minhas Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ---
 
 ## ⚙️ Frameworks e Bibliotecas
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
 ---
 
 ## 🗄️ Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
