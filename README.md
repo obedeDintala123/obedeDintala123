@@ -1,7 +1,4 @@
-### 👋 Olá! Eu sou o Obede Dintala 🚀
-
-Sou um desenvolvedor web apaixonado por criar soluções funcionais e impactantes, desde sites interativos até sistemas completos.  
-Busco usar a tecnologia para transformar negócios e melhorar vidas.
+### 👋 Hello! I’m Obede Dintala. 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moreira_dintala)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/obed.dintala)
