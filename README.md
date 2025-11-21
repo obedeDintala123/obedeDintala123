@@ -16,11 +16,31 @@
 
 🔧 **Tecnologias:**  
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![](https://skillicons.dev/icons?i=next,typescript,tailwind,nodejs,postgres)
 
 ✅ **Status:** Concluído  
 
 🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)  
+
+---
+
+### 🍽️ [ProduTech](https://github.com/obedeDintala123/produtech)  
+
+💻 Plataforma moderna de produtividade, com quadros de tarefas e blocos de notas.
+
+🔧 **Tecnologias:**  
+<div align="start">
+  <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"> 
+     <img alt="TailwindCSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg"> 
+       <img alt="Zustand" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Zustand.svg"> 
+       <img alt="React Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React Query.svg"> 
+
+</div>
+
+
+✅ **Status:** Concluído  
+
+🔗 [Acessar Projeto](https://produ-tech-6v2s.vercel.app)  
 
 ---
 
