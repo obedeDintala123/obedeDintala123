@@ -1,61 +1,227 @@
-### 👋 Hello! I’m Obede Dintala. 🚀
+<h1 data-importer="text" align="center">Hi 👋, I'm Obede Dintala</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moreira_dintala)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/obed.dintala)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obede-dintala-a14689366)
+###
 
-![Obede's GitHub stats](https://github-readme-stats.vercel.app/api?username=obedeDintala123&show_icons=true&theme=tokyonight)
+<h3 data-importer="text" align="center">Frontend Developer passionate about building modern web applications.</h3>
 
----
+###
 
-## 💼 Projetos em Destaque
+<p data-importer="text" align="center">Building scalable experiences with React, Next.js, NestJS and TypeScript.</p>
 
-### 🍽️ [Yummy Restaurant](https://github.com/obedeDintala123/yummy-restaurant)  
+###
 
-💻 Site moderno para restaurantes com reservas e pedidos online.  
-
-🔧 **Tecnologias:**  
-
-![](https://skillicons.dev/icons?i=next,typescript,tailwind,nodejs,postgres)
-
-✅ **Status:** Concluído  
-
-🔗 [Acessar Projeto](https://yummy-restaurant-five.vercel.app)  
-
----
-
-### 🍽️ [ProduTech](https://github.com/obedeDintala123/produtech)  
-
-💻 Plataforma moderna de produtividade, com quadros de tarefas e blocos de notas.
-
-🔧 **Tecnologias:**  
-<div align="start">
-  <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"> 
-     <img alt="TailwindCSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg"> 
-       <img alt="Zustand" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Zustand.svg"> 
-       <img alt="React Query" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React Query.svg"> 
-
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/obede-dintala" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/moreira_dintala" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
+###
 
-✅ **Status:** Concluído  
+<p data-importer="text" align="left"></p>
 
-🔗 [Acessar Projeto](https://produ-tech-6v2s.vercel.app)  
+###
 
----
+<h1 data-importer="text" align="left">About me</h1>
 
-## 🛠️ Minhas Skills
+###
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+<p data-importer="text" align="left">I'm a Frontend Developer from Angola 🇦🇴 passionate about creating modern, responsive and user-friendly web applications.<br><br>I enjoy turning ideas into polished digital products while continuously improving my knowledge of software architecture and backend development.<br><br>- 💻 Building modern web applications with React, Next.js and TypeScript.<br>- 🚀 Exploring backend development using NestJS, Express and PostgreSQL.<br>- 🎨 Passionate about UI/UX, animations and clean code.<br>- 🌱 Always learning new technologies and best practices.<br>- 🤝 Open to collaborating on exciting projects.</p>
 
----
+###
 
-## ⚙️ Frameworks e Bibliotecas
+<p data-importer="text" align="left"></p>
+<br clear="both">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+###
 
----
+<h1 data-importer="text" align="left">Skills</h1>
 
-## 🗄️ Banco de Dados
+###
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<p data-importer="text" align="left"></p>
+<br clear="both">
+
+###
+
+
+
+<h1 data-importer="text" align="left">Featured Projects</h1>
+
+###
+
+<h3 data-importer="text" align="left">1. Yummy Restaurant</h3>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="800" src="./assets/yummy.png"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">Description</h4>
+
+###
+
+<p data-importer="text" align="left">Modern restaurant website with online reservations.</p>
+
+<br clear="both">
+
+<h4 data-importer="text" align="left">Tech Stack</h4>
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+<br clear="both">
+
+<h4 data-importer="text" align="left">Repository</h4>
+
+<p data-importer="text" align="left">https://github.com/obedeDintala123/yummy-restaurant</p>
+
+<br clear="both">
+
+<h3 data-importer="text" align="left">2. ProduTech</h3>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="800" src="./assets/produth.png"  />
+</div>
+
+###
+<h4 data-importer="text" align="left">Description</h4>
+
+###
+
+<p data-importer="text" align="left">Modern productivity platform.</p>
+
+###
+
+<br clear="both">
+
+<h4 data-importer="text" align="left">Tech Stack</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+<h4 data-importer="text" align="left">Repository</h4>
+
+###
+
+<p data-importer="text" align="left">https://github.com/obedeDintala123/produTech</p>
+
+###
+
+
+
+<br clear="both">
+<h1 data-importer="text" align="left">Current Focus</h1>
+
+###
+
+<p data-importer="text" align="left">- Building modern SaaS applications.<br>- Improving UI/UX and animations with GSAP.<br>- Learning scalable backend architecture using NestJS.<br>-  Exploring Docker and CI/CD workflows.</p>
+
+###
+
+###
+
+###
+
+<h1 data-importer="text" align="left">Goals for 2026</h1>
+
+###
+
+<p data-importer="text" align="left">- Build production-ready SaaS applications.<br>- Contribute to Open Source.<br>- Publish my first npm package.<br>- Improve backend architecture skills.<br>- Master Docker and DevOps fundamentals.</p>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obedeDintala123/obedeDintala123/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obedeDintala123/obedeDintala123/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/obedeDintala123/obedeDintala123/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
