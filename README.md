@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Frontend Developer passionate about building modern web applications.</h3>
+<h3 data-importer="text" align="center">Web Developer passionate about building modern web applications.</h3>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Frontend Developer from Angola 🇦🇴 passionate about creating modern, responsive and user-friendly web applications.<br><br>I enjoy turning ideas into polished digital products while continuously improving my knowledge of software architecture and backend development.<br><br>- 💻 Building modern web applications with React, Next.js and TypeScript.<br>- 🚀 Exploring backend development using NestJS, Express and PostgreSQL.<br>- 🎨 Passionate about UI/UX, animations and clean code.<br>- 🌱 Always learning new technologies and best practices.<br>- 🤝 Open to collaborating on exciting projects.</p>
+<p data-importer="text" align="left">I'm a Web Developer from Angola 🇦🇴 passionate about creating modern, responsive and user-friendly web applications.<br><br>I enjoy turning ideas into polished digital products while continuously improving my knowledge of software architecture and backend development.<br><br>- 💻 Building modern web applications with React, Next.js and TypeScript.<br>- 🚀 Exploring backend development using NestJS, Express and PostgreSQL.<br>- 🎨 Passionate about UI/UX, animations and clean code.<br>- 🌱 Always learning new technologies and best practices.<br>- 🤝 Open to collaborating on exciting projects.</p>
 
 ###
 
@@ -96,106 +96,6 @@
 <br clear="both">
 
 ###
-
-
-
-<h1 data-importer="text" align="left">Featured Projects</h1>
-
-###
-
-<h3 data-importer="text" align="left">1. Yummy Restaurant</h3>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="800" src="./assets/yummy.png"  />
-</div>
-
-###
-
-<h4 data-importer="text" align="left">Description</h4>
-
-###
-
-<p data-importer="text" align="left">Modern restaurant website with online reservations.</p>
-
-<br clear="both">
-
-<h4 data-importer="text" align="left">Tech Stack</h4>
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-<br clear="both">
-
-<h4 data-importer="text" align="left">Repository</h4>
-
-<p data-importer="text" align="left">https://github.com/obedeDintala123/yummy-restaurant</p>
-
-<br clear="both">
-
-<h3 data-importer="text" align="left">2. ProduTech</h3>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="800" src="./assets/produth.png"  />
-</div>
-
-###
-<h4 data-importer="text" align="left">Description</h4>
-
-###
-
-<p data-importer="text" align="left">Modern productivity platform.</p>
-
-###
-
-<br clear="both">
-
-<h4 data-importer="text" align="left">Tech Stack</h4>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<br clear="both">
-<h4 data-importer="text" align="left">Repository</h4>
-
-###
-
-<p data-importer="text" align="left">https://github.com/obedeDintala123/produTech</p>
-
-###
-
-
 
 <br clear="both">
 <h1 data-importer="text" align="left">Current Focus</h1>
