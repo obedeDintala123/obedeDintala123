@@ -97,6 +97,26 @@
 
 ###
 
+<h1 data-importer="text" align="left">My Portfolio</h1>
+
+###
+
+<p data-importer="text" align="left">Check out some of my projects and work on my personal portfolio 👇</p>
+
+###
+
+<div data-importer="portfolio" align="center">
+  <a href="https://obede-dev.vercel.app/" target="_blank">
+    <img src="./assets/portfolio.png" alt="Portfolio preview" width="100%" />
+  </a>
+</div>
+
+###
+
+<p data-importer="text" align="center">🔗 <a href="https://obede-dev.vercel.app/" target="_blank">obede-dev.vercel.app</a></p>
+
+###
+
 <br clear="both">
 <h1 data-importer="text" align="left">Current Focus</h1>
 
